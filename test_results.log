@@ -1,0 +1,70 @@
+2024-04-19 13:48:27,182 - INFO - ���� 'test_additional_test' �������.
+2024-04-19 13:48:28,402 - INFO - ���� 'test_invalid_parameters_status_code' �������. ��� ��������� HTTP: 404
+2024-04-19 13:48:28,402 - INFO - ���� 'test_invalid_parameters_status_code' �������. ��� ��������� HTTP: 404
+2024-04-19 13:48:28,402 - INFO - ���� 'test_invalid_parameters_status_code' �������. ��� ��������� HTTP: 404
+2024-04-19 13:51:05,416 - INFO - ���� 'test_additional_test' �������.
+2024-04-19 13:51:05,965 - INFO - ���� 'test_invalid_parameters_content_type' �������. ���������� ������ ������ ��� ������������ ����������
+2024-04-19 13:51:05,965 - INFO - ���� 'test_invalid_parameters_content_type' �������. ���������� ������ ������ ��� ������������ ����������
+2024-04-19 13:51:06,565 - INFO - ���� 'test_invalid_parameters_status_code' �������. ��� ��������� HTTP: 404
+2024-04-19 13:51:06,565 - INFO - ���� 'test_invalid_parameters_status_code' �������. ��� ��������� HTTP: 404
+2024-04-19 13:51:06,565 - INFO - ���� 'test_invalid_parameters_status_code' �������. ��� ��������� HTTP: 404
+2024-04-19 13:51:07,169 - INFO - ���� 'test_successful_request_content_type' �������. ���������� ������ ������
+2024-04-19 13:51:07,169 - INFO - ���� 'test_successful_request_content_type' �������. ���������� ������ ������
+2024-04-19 13:51:07,169 - INFO - ���� 'test_successful_request_content_type' �������. ���������� ������ ������
+2024-04-19 13:51:07,169 - INFO - ���� 'test_successful_request_content_type' �������. ���������� ������ ������
+2024-04-19 13:51:07,707 - INFO - ���� 'test_successful_request_status_code' �������. ��� ��������� HTTP: 200
+2024-04-19 13:51:07,707 - INFO - ���� 'test_successful_request_status_code' �������. ��� ��������� HTTP: 200
+2024-04-19 13:51:07,707 - INFO - ���� 'test_successful_request_status_code' �������. ��� ��������� HTTP: 200
+2024-04-19 13:51:07,707 - INFO - ���� 'test_successful_request_status_code' �������. ��� ��������� HTTP: 200
+2024-04-19 13:51:07,707 - INFO - ���� 'test_successful_request_status_code' �������. ��� ��������� HTTP: 200
+2024-04-19 13:52:29,913 - INFO - ���� 'test_additional_test' �������.
+2024-04-19 13:52:30,462 - INFO - ���� 'test_invalid_parameters_content_type' �������. ���������� ������ ������ ��� ������������ ����������
+2024-04-19 13:52:30,462 - INFO - ���� 'test_invalid_parameters_content_type' �������. ���������� ������ ������ ��� ������������ ����������
+2024-04-19 13:52:31,003 - INFO - ���� 'test_invalid_parameters_status_code' �������. ��� ��������� HTTP: 404
+2024-04-19 13:52:31,003 - INFO - ���� 'test_invalid_parameters_status_code' �������. ��� ��������� HTTP: 404
+2024-04-19 13:52:31,003 - INFO - ���� 'test_invalid_parameters_status_code' �������. ��� ��������� HTTP: 404
+2024-04-19 13:52:31,539 - INFO - ���� 'test_successful_request_content_type' �������. ���������� ������ ������
+2024-04-19 13:52:31,539 - INFO - ���� 'test_successful_request_content_type' �������. ���������� ������ ������
+2024-04-19 13:52:31,539 - INFO - ���� 'test_successful_request_content_type' �������. ���������� ������ ������
+2024-04-19 13:52:31,539 - INFO - ���� 'test_successful_request_content_type' �������. ���������� ������ ������
+2024-04-19 13:52:32,086 - INFO - ���� 'test_successful_request_status_code' �������. ��� ��������� HTTP: 200
+2024-04-19 13:52:32,086 - INFO - ���� 'test_successful_request_status_code' �������. ��� ��������� HTTP: 200
+2024-04-19 13:52:32,086 - INFO - ���� 'test_successful_request_status_code' �������. ��� ��������� HTTP: 200
+2024-04-19 13:52:32,086 - INFO - ���� 'test_successful_request_status_code' �������. ��� ��������� HTTP: 200
+2024-04-19 13:52:32,086 - INFO - ���� 'test_successful_request_status_code' �������. ��� ��������� HTTP: 200
+2024-04-19 13:54:02,608 - INFO - Test 'test_additional_test' passed.
+2024-04-19 13:54:03,250 - INFO - Test 'test_invalid_parameters_content_type' passed. Correct data format for invalid parameters
+2024-04-19 13:54:03,250 - INFO - Test 'test_invalid_parameters_content_type' passed. Correct data format for invalid parameters
+2024-04-19 13:54:03,786 - INFO - Test 'test_invalid_parameters_status_code' passed. HTTP status code: 404
+2024-04-19 13:54:03,786 - INFO - Test 'test_invalid_parameters_status_code' passed. HTTP status code: 404
+2024-04-19 13:54:03,786 - INFO - Test 'test_invalid_parameters_status_code' passed. HTTP status code: 404
+2024-04-19 13:54:04,322 - INFO - Test 'test_successful_request_content_type' passed. Correct data format
+2024-04-19 13:54:04,322 - INFO - Test 'test_successful_request_content_type' passed. Correct data format
+2024-04-19 13:54:04,322 - INFO - Test 'test_successful_request_content_type' passed. Correct data format
+2024-04-19 13:54:04,322 - INFO - Test 'test_successful_request_content_type' passed. Correct data format
+2024-04-19 13:54:04,858 - INFO - Test 'test_successful_request_status_code' passed. HTTP status code: 200
+2024-04-19 13:54:04,858 - INFO - Test 'test_successful_request_status_code' passed. HTTP status code: 200
+2024-04-19 13:54:04,858 - INFO - Test 'test_successful_request_status_code' passed. HTTP status code: 200
+2024-04-19 13:54:04,858 - INFO - Test 'test_successful_request_status_code' passed. HTTP status code: 200
+2024-04-19 13:54:04,858 - INFO - Test 'test_successful_request_status_code' passed. HTTP status code: 200
+2024-04-19 14:11:49,425 - INFO - Test 'test_additional_test' passed.
+2024-04-19 14:11:50,004 - INFO - Test 'test_invalid_parameters_content_type' passed. Correct data format for invalid parameters
+2024-04-19 14:11:50,004 - INFO - Test 'test_invalid_parameters_content_type' passed. Correct data format for invalid parameters
+2024-04-19 14:11:50,562 - INFO - Test 'test_invalid_parameters_status_code' passed. HTTP status code: 404
+2024-04-19 14:11:50,562 - INFO - Test 'test_invalid_parameters_status_code' passed. HTTP status code: 404
+2024-04-19 14:11:50,562 - INFO - Test 'test_invalid_parameters_status_code' passed. HTTP status code: 404
+2024-04-19 14:12:05,161 - INFO - Test 'test_additional_test' passed.
+2024-04-19 14:12:05,775 - INFO - Test 'test_invalid_parameters_content_type' passed. Correct data format for invalid parameters
+2024-04-19 14:12:05,775 - INFO - Test 'test_invalid_parameters_content_type' passed. Correct data format for invalid parameters
+2024-04-19 14:12:06,382 - INFO - Test 'test_invalid_parameters_status_code' passed. HTTP status code: 404
+2024-04-19 14:12:06,382 - INFO - Test 'test_invalid_parameters_status_code' passed. HTTP status code: 404
+2024-04-19 14:12:06,382 - INFO - Test 'test_invalid_parameters_status_code' passed. HTTP status code: 404
+2024-04-19 14:12:06,919 - INFO - Test 'test_successful_request_content_type' passed. Correct data format
+2024-04-19 14:12:06,919 - INFO - Test 'test_successful_request_content_type' passed. Correct data format
+2024-04-19 14:12:06,919 - INFO - Test 'test_successful_request_content_type' passed. Correct data format
+2024-04-19 14:12:06,919 - INFO - Test 'test_successful_request_content_type' passed. Correct data format
+2024-04-19 14:12:07,459 - INFO - Test 'test_successful_request_status_code' passed. HTTP status code: 200
+2024-04-19 14:12:07,459 - INFO - Test 'test_successful_request_status_code' passed. HTTP status code: 200
+2024-04-19 14:12:07,459 - INFO - Test 'test_successful_request_status_code' passed. HTTP status code: 200
+2024-04-19 14:12:07,459 - INFO - Test 'test_successful_request_status_code' passed. HTTP status code: 200
+2024-04-19 14:12:07,459 - INFO - Test 'test_successful_request_status_code' passed. HTTP status code: 200
